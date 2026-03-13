@@ -50,7 +50,7 @@ Jupyter Notebook.
 
 To install the required HTML parsing libraries, the following command was executed in Anaconda Prompt:
 
-conda install beautifulsoup4 lxml
+ ## conda install beautifulsoup4 lxml ##
 
 This installs:
 
